@@ -1,4 +1,4 @@
-######Best PDF password remover EVER!!!!!!!######
+#####Best PDF password remover EVER!!!!!!!######
 ######path the output  path and the password#####
 
 # Importing the PDF read AND write libraries
